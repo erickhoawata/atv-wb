@@ -10,7 +10,4 @@
     "moduleResolution": "node",
     "noImplicitAny": false
   },
-  "include": [
-    "atv-wb/src/**/*"
-  ]
 }

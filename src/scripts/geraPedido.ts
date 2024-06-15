@@ -1094,6 +1094,24 @@ const listCliWithProdAndServ = [
             idProduto: 16
         },
         {
+            nomeProduto: 'Creme para Olheiras',
+            descricaoProduto: 'Creme para reduzir olheiras e inchaço.',
+            valorProduto: 60.00,
+            idProduto: 16
+        },
+        {
+            nomeProduto: 'Creme para Olheiras',
+            descricaoProduto: 'Creme para reduzir olheiras e inchaço.',
+            valorProduto: 60.00,
+            idProduto: 16
+        },
+        {
+            nomeProduto: 'Creme para Olheiras',
+            descricaoProduto: 'Creme para reduzir olheiras e inchaço.',
+            valorProduto: 60.00,
+            idProduto: 16
+        },
+        {
             nomeProduto: 'Sabonete Líquido Facial',
             descricaoProduto: 'Sabonete líquido para limpeza profunda do rosto.',
             valorProduto: 27.00,
